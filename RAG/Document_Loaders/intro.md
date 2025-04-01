@@ -1,0 +1,2 @@
+## Document Loaders ##
+    Document loaders are components in LangChain used to load data from various sources into a standardized format (usually as Document objects), which can then Se used for chunking embedding, retrieval, and generation.
