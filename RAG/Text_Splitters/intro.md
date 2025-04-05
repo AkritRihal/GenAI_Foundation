@@ -1,0 +1,3 @@
+Text splitters are tools used in Retrieval-Augmented Generation (RAG) systems to break down large pieces of text into smaller, manageable chunks. These chunks are then converted into embeddings and stored in a vector database. This process helps improve the efficiency of retrieving relevant information and passing it as context to language models during inference.
+
+These splitters are particularly useful for handling large documents and ensuring that the context provided to the language model is relevant and concise. Let me know if you'd like to dive deeper into any specific type!
